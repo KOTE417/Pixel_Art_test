@@ -15,7 +15,7 @@ body.lock{
 }
 @font-face {
     font-family: 'Montserrat';
-    src: url("C:/Windows/Fonts/Montserrat.eot");
+    src: url("/fonts/Montserrat-Regular.ttf");
 }
 .nav-bar{
     display: flex;
